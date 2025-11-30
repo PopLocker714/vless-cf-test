@@ -1,0 +1,15 @@
+name = "vless-cf-test" # todo
+#name = "cf-worker-connect-test" # todo
+#main = "test/worker/cf-cdn-cgi-trace2.js"
+#main = "test/worker/worker-connect-test.js"
+main = "_worker.js"
+compatibility_date = "2025-02-24"
+
+[vars]
+# UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
+# PROXYIP = "1.2.3.4"
+# DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
+# NODE_ID = "1"
+# API_TOKEN = "example_dev_token"
+# API_HOST = "api.v2board.com"
+UUID = "e85ffeed-dbf9-44e3-8cc1-f18d9bdfe609,3ab7f137-5e06-468b-90d0-7d5dc24de474,8e6ad8e0-9320-45c1-9332-60c56e88e3db"
